@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "de428ee94c3855bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b5772e39f716901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8369538e51e76d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebase 101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078280d263927375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rebase 101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c494c6632952c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12b2112c3e0fed94",
+    "type": "split",
+    "children": [
+      {
+        "id": "77293772b5224ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2f96df0c4904a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c69e9d0b40886bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd95f8a5489a8050",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f9be74a3309b7f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc96819eea0c0973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dffd7861e210ba01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SCSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1b0375c26a8791b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SCSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbdf5d6869dbdfba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cccf7f34ad026e3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SCSS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c494c6632952c5c5",
+  "lastOpenFiles": [
+    "! TODO.md",
+    "SCSS.md",
+    "SSM Ability to associate deal on email.md",
+    "GIT.md",
+    "POSTGRESQL trigger.md",
+    "CMIF.md",
+    "Pasted image 20240822195713.png",
+    "Untitled 1.md",
+    "Rebase 101.md",
+    "BLoC-vs-Cubit.md",
+    "Bloc Testing.md",
+    "Pasted image 20240708141656.png",
+    "Pasted image 20240708140326.png",
+    "Pasted image 20240708140228.png",
+    "Pasted image 20240708140158.png",
+    "Pasted image 20240618200224.png",
+    "Welcome.md"
+  ]
+}
