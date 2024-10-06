@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5772e39f716901",
+        "id": "6abf7e3f77d51952",
         "type": "tabs",
         "children": [
           {
-            "id": "8369538e51e76d4d",
+            "id": "919fb456806681cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rebase 101.md",
+                "file": "spring-boot/Connecting POSTGRE in Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "078280d263927375",
+            "id": "843a562d5205528e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rebase 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c494c6632952c5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCSS.md",
+                "file": "issues.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCSS.md",
+                "file": "issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCSS.md",
+                "file": "issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCSS.md"
+                "file": "issues.md"
               }
             }
           }
@@ -171,24 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c494c6632952c5c5",
+  "active": "843a562d5205528e",
   "lastOpenFiles": [
-    "! TODO.md",
-    "SCSS.md",
-    "SSM Ability to associate deal on email.md",
+    "spring-boot/Connecting POSTGRE in Spring Boot.md",
+    "issues.md",
+    "spring-boot/contents.md",
+    "spring-boot/Inversion of control (IOC).md",
+    "spring-boot/@SpringBootApplication.md",
+    "Bloc Testing.md",
     "GIT.md",
+    "spring-boot/Maven.md",
+    "spring-boot/Controllers.md",
+    "spring-boot/Mappings in controller.md",
     "POSTGRESQL trigger.md",
+    "spring-boot/Setting up and starting a Spring Project.md",
+    "How to create a static markdown blog using Jekyll.md",
+    "spring-boot/pom.xml.md",
+    "Untitled.md",
+    "spring-boot",
+    "Pasted image 20240905200133.png",
+    "Pasted image 20240905200006.png",
+    "Pasted image 20240905195953.png",
+    "Pasted image 20240905195928.png",
+    "Pasted image 20240905195910.png",
+    "Rebase 101.md",
+    "SCSS.md",
+    "! TODO.md",
+    "SSM Ability to associate deal on email.md",
     "CMIF.md",
     "Pasted image 20240822195713.png",
     "Untitled 1.md",
-    "Rebase 101.md",
     "BLoC-vs-Cubit.md",
-    "Bloc Testing.md",
     "Pasted image 20240708141656.png",
     "Pasted image 20240708140326.png",
     "Pasted image 20240708140228.png",
     "Pasted image 20240708140158.png",
-    "Pasted image 20240618200224.png",
     "Welcome.md"
   ]
 }
